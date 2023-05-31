@@ -5,7 +5,7 @@
 #                                     GROUP MEMBERS
 
 #       HASSAAN ABDULLAH       2022-UAM-1951
-#       ABDUL-BASIT            2022-UAM-1936
+#       ABDUL-BASIT            2022-UAM-1935
 #       SYED HAIDER ABBAS      2022-UAM-1939
 #       MAZHAR GHAFFAR         2022-UAM-1916
 #       ZAIN-UL-ABIDEEN AZAM   2022-UAM-1928
